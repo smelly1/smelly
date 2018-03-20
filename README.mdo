@@ -1,0 +1,7 @@
+# smelly
+echo "# smelly" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/smelly1/smelly.git
+git push -u origin master
